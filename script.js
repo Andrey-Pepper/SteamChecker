@@ -1,6 +1,6 @@
 async function getSteamProfile() {
     const steamId = document.getElementById('steamIdInput').value;
-    const apiKey = 'YOUR_STEAM_API_KEY'; // Replace with your Steam API key
+    const apiKey = '788F97BC25C759C344019B208C5AA1E6'; // Replace with your Steam API key
     const profileContainer = document.getElementById('profileContainer');
     profileContainer.innerHTML = '';
 
